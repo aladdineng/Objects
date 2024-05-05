@@ -36,5 +36,5 @@ Task 4) The book has been assigned an ISBN number. Add a property 'ISBN' with a 
 book.pageCount = 1096;
 console.log(book);
 
-book.ISBN = 978 - 1491952023;
+book.ISBN = "978 - 1491952023";
 console.log(book);
